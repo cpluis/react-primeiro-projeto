@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import { NavLink, useHistory, Redirect } from "react-router-dom";
-import Cadastrados from '../Cadastrados';
+import { NavLink } from "react-router-dom";
 import "./style.css"
 // import { Container } from './styles';
 
